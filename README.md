@@ -1,3 +1,4 @@
+
 PID Cat
 =======
 
@@ -66,3 +67,7 @@ sudo apt-get -t focal install coreutils
  [2]: http://brew.sh
  [3]: http://developer.android.com/sdk/
  [4]: https://aur.archlinux.org/packages/pidcat-git/
+=======
+# pidcat-windows-PowerShell
+pidcat from jake warthon for Windows. This can color the terminal (PowerShell)
+
